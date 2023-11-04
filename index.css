@@ -1,0 +1,230 @@
+.heading{
+    text-align: center;
+    color: white;
+}
+
+.image{
+
+}
+.image-container{
+    display: flex;
+    
+    
+}
+
+.description-page{
+    background-color: blue;
+    margin-top: 40px;
+    padding: 30px;
+}
+.heading1{
+    color: gray;
+    text-align: center;
+    font-size: 30px;
+}
+.heading2{
+    color: red;
+    text-align: center;
+    font-size: 40px;
+}
+.live{
+    background-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.heading3{
+    color: white;
+    text-align: center;
+}
+.image-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: aliceblue;
+}
+
+.description-page{
+    margin-bottom: 20px;
+    background-image: url('https://resources.commlabindia.com/hubfs/webinars/corporate-training-with-ai-texture-bg.jpg');
+}
+.list2{
+    color: black;
+    font-size: 20px;
+    text-align: left;
+}
+.heading4{
+    color: black;
+    text-align: center;
+}
+.line-through{
+    text-decoration: line-through;
+    color: blue;
+}
+.free{
+    color: red;
+}
+.button{
+    text-align: center;
+    background-color:red;
+    color: white;
+    border-width: 0px;
+    border-radius: 20px;
+    height: 60px;
+    width: 50%;
+    font-size: 20px;
+
+}
+.button-container{
+    text-align: center;
+}
+.bg-container{
+    background-attachment: fixed;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 20px;
+    background-size: cover;
+    background-image: url("https://resources.commlabindia.com/hubfs/webinars/corporate-training-with-ai-banner.jpg");
+}
+.image{
+    margin-bottom: 20px;
+}
+.company{
+    background-color: brown;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.bg-container2{
+    background-attachment: fixed;
+    background-position: center;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 20px;
+    background-size: cover;
+    padding-bottom: 20px;
+    background-image: url("https://resources.commlabindia.com/hubfs/webinars/corporate-training-with-ai-grey-banner.jpg");
+}
+.heading21{
+    color: rgb(57, 51, 51);
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}    
+.points{
+    color: rgb(79, 76, 76);
+    font-size: 30px;
+    margin-left: 10%;
+    font-weight: bold;
+}
+.list{
+    margin-bottom: 20px;
+}
+.heading22{
+    color: rgb(28, 25, 25);
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}    
+.paragraph{
+    color: rgb(56, 55, 55);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.paragraph2{
+    color: rgb(5, 4, 4);
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+.button2{
+    text-align: center;
+    background-color:red;
+    color: white;
+    border-width: 0px;
+    border-radius: 20px;
+    height: 80px;
+    width: 30%;
+    font-size: 20px;
+
+}
+.button-container2{
+    text-align: center;
+}
+.free2{
+    text-decoration: line-through;
+    margin-top: 10px;
+}
+.bg-container3{
+    background-attachment: fixed;
+    background-position: center;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 20px;
+    background-size: cover;
+    background-color: black;
+}
+.heading31{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.image-container31{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.container3{
+    margin: 35px;
+    width: 20%;
+}
+.bg-container4{
+    background-attachment: fixed;
+    background-position: center;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 20px;
+    background-size: cover;
+    background-image: url("https://resources.commlabindia.com/hubfs/webinars/corporate-training-with-ai-banner.jpg");
+}
+.paragraph42{
+    font-size: 30px;
+    font-weight: bold;
+}
+.paragraph41{
+    font-size: 25px;
+    font-weight: bold;
+}
+.bg-container5{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white;
+}
+.logo5{
+    margin-left: 300px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.heading5{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 300px;
+    font-size: 20px;
+}
